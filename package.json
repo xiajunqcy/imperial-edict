@@ -1,0 +1,21 @@
+{
+    "name": "imperial-edict",
+    "displayName": "Imperial edict",
+    "description": "a theme",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.31.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Imperial Edict",
+                "uiTheme": "vs",
+                "path": "./themes/Imperial Edict-color-theme.json"
+            }
+        ]
+    }
+}
